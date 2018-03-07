@@ -1,0 +1,4 @@
+Q - WATER --- A - LIGHTNING
+W - LIFE --- S - DEATH
+E - SHIELD --- D - STONE
+R - ICE --- F - FIRE
